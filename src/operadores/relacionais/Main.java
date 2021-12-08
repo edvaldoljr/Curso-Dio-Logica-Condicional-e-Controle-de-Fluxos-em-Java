@@ -1,4 +1,4 @@
-package operadores.logicos;
+package operadores.relacionais;
 
 public class Main {
 
