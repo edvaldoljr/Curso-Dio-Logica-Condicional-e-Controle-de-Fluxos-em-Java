@@ -10,6 +10,8 @@ public class Main {
 
        IfFlecha.ifFlecha();
        IfFlecha.ifSemFlecha();
+       IfFerias.ifFerias();
+       IfFerias.switchFerias();
 
     }
 }
