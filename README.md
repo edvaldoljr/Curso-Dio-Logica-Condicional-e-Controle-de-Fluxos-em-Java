@@ -22,6 +22,6 @@
 - [x] Evitar muitos if's aninhados
 - [x] Usar a boa prática da aula 2 para diminuir o tamanho do if 
 
-## Certidicado :
+## Certificado :
 
 ![](https://hermes.digitalinnovation.one/certificates/cover/D3C6BDAE.jpg)
