@@ -16,6 +16,9 @@ public class Main {
 
        IfMenor.ifMenor();
 
+       SwitchNumero.swiftchNumero();
+       SwitchSemana.switchSemana();
+
     }
 }
 
